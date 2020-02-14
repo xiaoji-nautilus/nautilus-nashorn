@@ -1,0 +1,6 @@
+{
+  "debug": true,
+  "local.server.host": "sa-amq",
+  "local.server.port": 5672,
+  "amq.app.id": "nautilus-nashorn"
+}
